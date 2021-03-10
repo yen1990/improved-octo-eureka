@@ -1,35 +1,22 @@
 #EXTM3U
-
 #EXTINF:-1,3hd https://we-play.tv/watching/tv/ch3-hd 
-
 #EXTINF:-1,5hd
 https://we-play.tv/watching/tv/ch5-hd
-
 #EXTINF:-1,7hd https://we-play.tv/watching/tv/ch7-hd 
-
 #EXTINF:-1,mcothd
 https://we-play.tv/watching/tv/mcot-hd
-
 #EXTINF:-1, tpbs https://we-play.tv/watching/tv/thal-pbs 
-
 #EXTINF:-1,pptv
 https://we-play.tv/watching/tv/pptv-hd
-
 #EXTINF:-1, onehd https://we-play.tv/watching/tv/one-hd
-
 #EXTINF:-1,amarintv
 https://we-play.tv/watching/tv/amarin-tv 
-
 #EXTINF:-1,thairath https://we-play.tv/watching/tv/thairath-tv
-
 #EXTINF:-1,mono29
 https://we-play.tv/watching/tv/mono29 
-
 #EXTINF:-1,gmm25 https://we-play.tv/watching/tv/gmm 25
-
 #EXTINF:-1, nationtv
 https://we-play.tv/watching/tv/nationtv 
-
 #EXTINF:-1,true4u https://we-play.tv/watching/tv/true4u
 #EXTINF:-1,workpoint
 https://we-play.tv/watching/tv/workpoint 
