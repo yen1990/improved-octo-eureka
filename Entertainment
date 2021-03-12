@@ -1,0 +1,445 @@
+{
+		"name": "Entertainment",
+		"author": "ทดสอบ",
+		"image":"https://www.234.in.th/images/2021/01/19/139330190_401728744422274_7631144435927821075_n.png",
+		"url": "",
+		
+
+		"stations":[
+
+
+{name:"     ",image:"https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png",url:"https://www.we-play.tv/watching/tv/hbo-hd",referer:"https://www.livedoomovies.com/"},
+
+{"name": "","image": "https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png","url": "https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36","userAgent": "exoplayer 2.11.7", "playInNatPlayer": "true"},
+
+
+{"name": "","image": "https://www.img.in.th/images/e0f0129dc552ce18c6e279b8fcfd011d.png","url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer 2.11.7","playInNatPlayer": "true"},
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/31/lIZQj0.png","url": "http://bos.00387.info:8080/HBO/index.m3u8?token=test","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2020/12/29/lWLV1n.png",url:"http://bos.00387.info:8080/HBO3/index.m3u8?token=test","playInNatPlayer": "true"},
+{name:"",image:"https://www.234.in.th/images/2020/12/09/129874040_1206627753064452_8294209155030579924_n.png",url:"http://bos.00387.info:8080/HBO2/index.m3u8?token=test","playInNatPlayer": "true"},
+
+
+{name:"",image:"https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",url:"https://www.we-play.tv/watching/tv/hbo-hits",referer:""},
+{name:"",image:"https://www.img.in.th/images/eaee0c37ea1c76fac7d68beef1f51b8b.png",url:"http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8",referer:""},
+
+
+
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142680146_349822556565892_658254634847156546_n.png",url:"https://www.we-play.tv/watching/tv/hbo-signature",referer:""},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142680146_349822556565892_658254634847156546_n.png",url:"http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8",referer:""},
+
+
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142386693_3577251025655686_5742232162917766532_n.png",url:"https://www.we-play.tv/watching/tv/hbo-family",referer:""},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142386693_3577251025655686_5742232162917766532_n.png",url:"http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8",referer:""},
+
+
+{name:"    ",image:"https://www.img.in.th/images/673c7787d8e6cb2e99c2cab922ebb2fb.png",url:"https://raw.githubusercontent.com/maxchanon/maxiptv/main/redbyhbo.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"    ",image:"https://www.img.in.th/images/673c7787d8e6cb2e99c2cab922ebb2fb.png",url:"https://www.we-play.tv/watching/tv/red-by-hbo",referer:""},
+
+
+{name:"     ",image:"https://www.img.in.th/images/c3e090a28260224a51adc0e57ae20eeb.png",url:"https://www.we-play.tv/watching/tv/cinemax",referer:""},
+{name:"",image:"https://www.img.in.th/images/c3e090a28260224a51adc0e57ae20eeb.png",url:"http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/03/02/ovYaCQ.png",url:"http://bos.00387.info:8080/Cinemax2/index.m3u8?token=test","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"",image:"https://sv1.picz.in.th/images/2021/03/02/ovYaCQ.png",url:"http://bos.00387.info:8080/Cinemax2/index.m3u8?token=test","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142510468_121607513155359_3047954972771048801_n.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-foxaction&api_key=hmcb4rf66f",referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142510468_121607513155359_3047954972771048801_n.png",url:"https://www.we-play.tv/watching/tv/fox-action-movies",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142510468_121607513155359_3047954972771048801_n.png",url:"https://www.movie24h.com/live/fox-action-movies-th",referer:""},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142510468_121607513155359_3047954972771048801_n.png",url:"https://www.movie24h.com/live/fox-action-movies-th",referer:""},
+
+
+
+{name:"      ",image:"https://www.234.in.th/images/2021/01/25/142728334_422785988995994_3758466586017267700_n.png",url:"https://www.we-play.tv/watching/tv/fox-movies",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142728334_422785988995994_3758466586017267700_n.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-foxpremium&api_key=hmcb4rf66f&ref=none",referer:"https://dooball66.com"},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142728334_422785988995994_3758466586017267700_n.png",url:"https://www.moviemocha.com/tv/fox-movies-premium-en/",referer:""},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142728334_422785988995994_3758466586017267700_n.png",url:"https://www.moviemocha.com/tv/fox-movies-premium-th/",referer:""},
+
+
+
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142366089_169407207930177_7207135988469120789_n.png",url:"https://www.we-play.tv/watching/tv/fox-family-movies",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142366089_169407207930177_7207135988469120789_n.png",url:"https://www.we-play.tv/watching/tv/fox-family-movies",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.img.in.th/images/4e2d514d8d86287ea4eaf5db8e592bd3.png",url:"https://cdn6.goprimetime.info/feed/LC28/tracks-v1a1/mono.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"",image:"https://www.img.in.th/images/4e2d514d8d86287ea4eaf5db8e592bd3.png",url:"http://203.154.177.124:8899/live/ch12/playlist.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/03/04/oe5peD.png",url:"https://player.we-play.tv/channel.php?name=hits&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/e6f7ece47df84ef0c165362a516c8391.png",url:"https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+{name:"      FOX",image:"https://www.img.in.th/images/76c4f3554de2c187cad2fd6ad1ed7a7a.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=sd-fox&api_key=hmcb4rf66f&ref=none",referer:"https://dooball66.com"},
+{name:"",image:"https://www.img.in.th/images/76c4f3554de2c187cad2fd6ad1ed7a7a.png",url:"https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"",image:"https://www.img.in.th/images/76c4f3554de2c187cad2fd6ad1ed7a7a.png",url:"https://player.we-play.tv/channel.php?name=foxth&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/76c4f3554de2c187cad2fd6ad1ed7a7a.png",url:"https://player.we-play.tv/channel.php?name=foxth&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.img.in.th/images/afd4667e5efc5c0e4cd69955a9fa62ec.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-axn&api_key=hmcb4rf66f&ref=none",referer:"https://dooball66.com"},
+{name:"",image:"https://www.img.in.th/images/afd4667e5efc5c0e4cd69955a9fa62ec.png",url:"https://player.we-play.tv/channel.php?name=axn&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/03/o0HzIN.png",url:"https://www.we-play.tv/watching/tv/fox-life",referer:"https://player.we-play.tv"},
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/03/o0HzIN.png",url:"https://laos-tech-live.b-cdn.net/hd-foxlife_720/index.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+
+{name:"        ",image:"https://sv1.picz.in.th/images/2021/01/26/lXBSHz.png",url:"https://player.we-play.tv/channel.php?name=paramount&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"        ",image:"https://sv1.picz.in.th/images/2021/01/26/lXBSHz.png",url:"https://player.we-play.tv/channel.php?name=paramount&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+
+
+{name:"        ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/149120257_245373180420818_294138902641667920_n.png?_nc_cat=106&ccb=3&_nc_sid=58c789&_nc_eui2=AeGZyrjk7K0o_4McImHUlepblsqQ0Q898iuWypDRDz3yKwlRqZonVafswk4D40w4f-ZrTehwHi-yx58sWANnBu6z&_nc_ohc=fu51wcdp7scAX-GiUQk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=edad4d03b229fc22d65b01e77cf5dcca&oe=604A5864",url:"https://bit.ly/3qkKxeX",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"        ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/149301312_468539007496793_8904671446705750924_n.png?_nc_cat=103&ccb=3&_nc_sid=58c789&_nc_eui2=AeH3hobEp7BZkSI4DM_Qn7fZ_eZ4FpHIg6X95ngWkciDpaxj8aiT04C7nRHFncWVATjbBxLu1JHEVVElepRT8-ub&_nc_ohc=9sFxbFU0OKcAX-lwCnF&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=cef5aec3e81452e1d00976c45cb8cc51&oe=604B198F",url:"https://bit.ly/3pj4fGz",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"        ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/148716769_1378837399133480_3265079787194221552_n.png?_nc_cat=104&ccb=3&_nc_sid=58c789&_nc_eui2=AeFR9fMsRfdsALbLhpAVPN4RlOeJWdSeQOOU54lZ1J5A47oqRl7xHH7blfQOeSf-Bfa4kKmnW6S-h2QAUfQ_gtZf&_nc_ohc=PKwtEeQ4GAEAX9z6y6R&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=03df77a3e53a0b2e869fe0cc5a5b68e0&oe=604B515F",url:"https://bit.ly/3rWKWEy",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"        ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/148716768_1044213789742563_925070124450360614_n.png?_nc_cat=100&ccb=3&_nc_sid=58c789&_nc_eui2=AeHkXMDciE6K5d6R9_qHtJJAbrI4BJBv-SxusjgEkG_5LBOhFirUDPe_9GPhT7eruw5A7skfj8knSukA74XlQabG&_nc_ohc=QJD7ppnJqUoAX-Nw5BJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=500fb6cc913a430ecd04706491920c98&oe=604A3E5C",url:"https://bit.ly/2ZeheP5",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+{name:"      ",image:"https://sv1.picz.in.th/images/2020/12/24/jGzv9k.png",url:"http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708",referer:"https://player.we-play.tv"},
+{name:"      ",image:"https://sv1.picz.in.th/images/2020/12/24/jGzv9k.png",url:"http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.img.in.th/images/2690d31c2f9b6e19cdff43560191682e.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-kbsworld&api_key=hmcb4rf66f",referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"},
+{name:"",image:"https://www.img.in.th/images/2690d31c2f9b6e19cdff43560191682e.png",url:"https://www.we-play.tv/watching/tv/kbs-world",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/03/03/oeYitZ.png",url:"https://player.we-play.tv/channel.php?name=scm&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://sv1.picz.in.th/images/2021/03/03/oeYitZ.png",url:"https://player.we-play.tv/channel.php?name=scm&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+{name:"      TVN",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",url:"https://player.we-play.tv/channel.php?name=tvn&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"      ",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",url:"https://player.we-play.tv/channel.php?name=tvn&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.img.in.th/images/59fde5cf7c8a31277475963dcd1f84ff.png",url:"https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/59fde5cf7c8a31277475963dcd1f84ff.png",url:"https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/10/otGe8S.png",url:"https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8",referer:""},
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/10/otGe8S.png",url:"https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8",referer:""},
+
+{name:"",image:"https://static.epg.best/kr/SBSPlus.kr.png",url:"https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8",referer:""},
+{name:"",image:"https://static.epg.best/kr/SBS.kr.png",url:"https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8",referer:""},
+{name:"",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/154773983_741099826794913_5356760428454681717_n.png?_nc_cat=101&ccb=3&_nc_sid=58c789&_nc_eui2=AeHy5wH99alMXsm9Brl2HVENq_7a-Wcujqer_tr5Zy6Op2vFUs2PTdtDnp5ayhociSuOXp9s8EFzEY70pOTWzmlM&_nc_ohc=mxUMvedrhukAX-uU03z&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=2f97d0613233953745e0dcdb5f12e73b&oe=6061C25B",url:"https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8",referer:""},
+
+{"name": " ",  "image": "https://sv1.picz.in.th/images/2020/12/04/jwuCiQ.png",  "url": "https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8","playInNatPlayer": "true"},
+
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/16/oqH3jP.png",url:"https://bit.ly/3jRuXVE",referer:""},
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/16/oqH3jP.png",url:"https://bit.ly/3jRuXVE",referer:""},
+
+
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0165.png",url:"https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment",referer:"https://player.we-play.tv"},
+{"name": "","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0165.png","url": "https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0166.png",url:"https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment",referer:"https://player.we-play.tv"},
+{"name": "","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0166.png","url": "https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{"name": "",  "image": "https://www.234.in.th/images/2020/12/09/127765028_1919146624891508_722155216847822280_n.png",  "url": "http://ip2121.com:8081/live/TVB/playlist.m3u8","playInNatPlayer": "true"},
+{"name": "",  "image": "https://www.img.in.th/images/5508886e5063f5d3b57fca042c7e22d5.png",  "url": "https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8","playInNatPlayer": "true"},
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/04/oz8g7g.png",url:"https://cdn6.goprimetime.info/feed/LC41/tracks-v1a1/mono.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+{"name": "",  "image": "https://www.234.in.th/images/2020/12/09/IMG_20201022_095608.png",  "url": "https://cdn6.goprimetime.info/feed/LC26/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "       FHD",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",  "url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "      MONO",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",  "url": "https://www.we-play.tv/watching/tv/mono29",referer:"https://player.we-play.tv"},
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/03/01/opdnSb.png","url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2021/03/01/opdnSb.png","url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png","url": "https://cdn6.goprimetime.info/feed/LC1/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVgBqD.png","url": "https://cdn6.goprimetime.info/feed/LC1/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png","url": "https://cdn6.goprimetime.info/feed/LC2/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVg0Fg.png","url": "https://cdn6.goprimetime.info/feed/LC2/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVcmBE.png","url": "https://cdn6.goprimetime.info/feed/LC52/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVcmBE.png","url": "https://cdn6.goprimetime.info/feed/LC52/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVgd2n.png","url": "https://cdn6.goprimetime.info/feed/LC53/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVgd2n.png","url": "https://cdn6.goprimetime.info/feed/LC53/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name":"",image:"https://i0.wp.com/pmnewstv.net/wp-content/uploads/2020/04/pmnewstv.png?w=300&ssl=1",url:"https://live.thaitvstream.com/streaming/pmnewstv/play.php","referer": ""},
+{"name":"",image:"https://i0.wp.com/pmnewstv.net/wp-content/uploads/2020/04/mdtvnews.png?w=300&ssl=1",url:"https://live.thaitvstream.com/streaming/mdtvnews/play.php","referer": ""},
+
+{"name": "","image": "https://sv1.picz.in.th/images/2020/12/05/j1nwhl.png","url": "http://203.154.243.89:1214/","userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2020/12/05/j1nwhl.png","url": "http://203.154.243.89:1214/","userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+{name:"       HD2 ",image:"https://sv1.picz.in.th/images/2021/01/25/lVzbxy.png",url:"https://www.doofree88.com/live/film-hd-2","referer": ""},
+{name:"iconcerts",image:"https://www.234.in.th/images/2020/12/16/130587233_217231416541010_6280584983293029946_n.png",url:"https://www.we-play.tv/watching/tv/stingray-iconcerts",referer:"https://player.we-play.tv"},
+
+
+{"name": "",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",  "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{"name": "",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",  "url": "https://www.doofree88.com/live/true4u",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",url:"https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",url:"https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jfJyNR.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmcb4rf66f&ref=none",referer:"https://dooball66.com"},
+
+{name:"   ",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",url:"https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8",referer:""},
+{name:"   ",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",url:"http://photocall.tv/ftv.m3u8?ch=food-network",referer:"https://player.we-play.tv"},
+
+
+
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",url:"https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b450000.m3u8?token=","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{name:"       TCL",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",url:"http://supersonictv.live:25461/903310/034806/22157",referer:""},
+
+{name:"     ไทย   ",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",url:"https://player.we-play.tv/channel.php?name=tlc&cate=documentary",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.img.in.th/images/c0ddb7842beff9ee003e4f56b1c1f802.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=101",referer:"https://www.doomovie-hd.com"},
+{name:"",image:"https://www.img.in.th/images/c0ddb7842beff9ee003e4f56b1c1f802.png",url:"https://player.we-play.tv/channel.php?name=truemusic&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+
+{"name":"      ",image:"https://scontent.furt2-1.fna.fbcdn.net/v/t1.15752-0/p206x206/154496389_1126995617761669_7393887331022735812_n.png?_nc_cat=101&ccb=3&_nc_sid=58c789&_nc_eui2=AeH8l4F0ikecowNukGs-RTCKVuooQbCgIbVW6ihBsKAhtcEEYjzWOVNv684de83ULhhBAuWkMAxRqYD03HA3cQjf&_nc_ohc=y_VXcqZetCYAX8c0kw6&_nc_ht=scontent.furt2-1.fna&_nc_tp=30&oh=35a22030feb99fd4385f9b836a863307&oe=605F7E7C",url:"http://www.cablechannel37.com/17128842/cable-channel-37-live","referer": ""},
+{"name":"      ",image:"https://scontent.furt2-1.fna.fbcdn.net/v/t1.15752-0/p206x206/154496389_1126995617761669_7393887331022735812_n.png?_nc_cat=101&ccb=3&_nc_sid=58c789&_nc_eui2=AeH8l4F0ikecowNukGs-RTCKVuooQbCgIbVW6ihBsKAhtcEEYjzWOVNv684de83ULhhBAuWkMAxRqYD03HA3cQjf&_nc_ohc=y_VXcqZetCYAX8c0kw6&_nc_ht=scontent.furt2-1.fna&_nc_tp=30&oh=35a22030feb99fd4385f9b836a863307&oe=605F7E7C",url:"http://www.cablechannel37.com/17128842/cable-channel-37-live","referer": ""},
+
+
+{name:"",image:"https://www.img.in.th/images/9fbf50509587f5a8d339241d6f4cffd5.png",url:"https://player.we-play.tv/channel.php?name=trueasianhd&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/9fbf50509587f5a8d339241d6f4cffd5.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-asian&api_key=hmcb4rf66f",referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"},
+
+{"name": "      1080p",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0031.png",  "url": "http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",referer:"https://player.we-play.tv"},
+
+
+
+{"name": "",  "image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/155382932_759578041627966_2256613027179485736_n.png?_nc_cat=105&ccb=3&_nc_sid=58c789&_nc_eui2=AeGvtbML5OPzkMLg3b_BhhEojuQ-PxUZnGKO5D4_FRmcYruDRCBXzBbjjv7fGEeC2vLggkSteXBf5N9AIuqqS87N&_nc_ohc=BXvPqhoo54QAX9Usf7n&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=0b9947b25f9ff259f13c15fe7ddd9683&oe=606471AE",  "url": "https://edge6a.v2h-cdn.com/m2s7/BANTERG.stream_360p/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name": "",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V_0338",  "url": "https://cdn6.goprimetime.info/feed/LC24/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+
+
+{"name": "",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",  "url": "https://cdn6.goprimetime.info/feed/LC5/tracks-v1a1/mono.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",  "url": "https://cdn6.goprimetime.info/feed/LC5/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "",  "image": "https://www.img.in.th/images/a39b27884f11a3dc4be5ac7a26d2914f.png",  "url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8","playInNatPlayer": "true"},
+{"name": "",  "image": "https://www.img.in.th/images/a39b27884f11a3dc4be5ac7a26d2914f.png",  "url": "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8","playInNatPlayer": "true"},
+
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0091.png",url:"https://edge6a.v2h-cdn.com/m2s7/Mix_major.stream_360p/chunklist_w2139892777.m3u8",referer:"https://www.doomovie-hd.com/ "},
+{name:"",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0091.png",url:"https://edge6a.v2h-cdn.com/m2s7/Mix_major.stream_360p/chunklist_w2139892777.m3u8",referer:"https://www.doomovie-hd.com/ "},
+
+
+
+{name:"   ",image:"https://www.234.in.th/images/2021/02/10/149217843_1657469864435296_3098199312106983546_n.png",url:"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=805&deviceId=561c5f613286e48904fb2677&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",referer:""},
+
+{name:"   ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/151801575_2314115862065659_3921182430497949328_n.png?_nc_cat=102&ccb=3&_nc_sid=58c789&_nc_eui2=AeHOseahindJXn7ojWEpIUInMxNA2sWk9IwzE0DaxaT0jObFDYSvcbtsiiVxA_4VNYOw9D149FUD7_kNLNBzlQFe&_nc_ohc=KO-cCtj0nVQAX-hHTy-&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=514f1c585d2f048ff95e45639342d7b6&oe=605F06BC",url:"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f186626dcd00d0007936443/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=806&deviceId=5f186626dcd00d0007936443&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",referer:""},
+
+
+{name:"   ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/153870636_468281544339158_8195384824477254488_n.png?_nc_cat=101&ccb=3&_nc_sid=58c789&_nc_eui2=AeFzFkAQsAm-igcG_deW1qQv9thYY4tihmb22Fhji2KGZqkkPcmYhYIVTuskofkfvmW-G3faUBlXJJuw_bZkbfSe&_nc_ohc=mcyvZgAAK-MAX9gJQMz&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=f57701e29cd1718ea7aae95346db5f6c&oe=605EB7AE",url:"https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8",referer:""},
+
+
+{name:"",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/155096012_2837628793143585_6027429559407229888_n.png?_nc_cat=103&ccb=3&_nc_sid=58c789&_nc_eui2=AeGPmfPJV5_kXiFhru0n4QcaZ9yvtbBKLnJn3K-1sEoucqbATATtix3x_UpBaE3XS9XnhWJtaaNO0koAFOO-ZQk-&_nc_ohc=DLN6hosdId8AX_TdVj-&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=cd6c3cf56ebe1670b2e127ccbddd06a4&oe=605C9B16",url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f706f312-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f16ff50d-be86-4237-8183-d77f04ac40a4&userId=&serverSideAds=true",referer:""},
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/02/10/otIqog.png",url:"http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/153398527_4353863181308906_5047804913848928446_n.png?_nc_cat=103&ccb=3&_nc_sid=58c789&_nc_eui2=AeGCaaJyI3a31hDnvDY7XuErNZfFNUteP9k1l8U1S14_2SeCYNu0Azc7dp96HBStIiAQi7bi7JAdZLfpnASXexAt&_nc_ohc=TqhcTkQxIX8AX-O1AyV&_nc_oc=AQkSv8gVDkFxvcZ4fSFOIBZnXwfs3oFxKCkgGLcq7SnuIEovCxRR0wjfjLiAKn24ajbqnvwEJTbIhn4HAHO8E8h1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=284ef91970a769f5298a7303bfe0f77c&oe=60629EEB",url:"https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=aH40DJn0beYk_e0SH8wGLA&e=1615150502&hls_proxy_host=pub1.rtmp.s01.l.europaplus&zoid=sharing",referer:""},
+{name:"",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/154846109_122588729793119_2041144709949342368_n.png?_nc_cat=110&ccb=3&_nc_sid=58c789&_nc_eui2=AeG9lRg3D1PD90t4TlhDIU6TXLb482UbR_JctvjzZRtH8okbUg1v8-LO0bNini8KgLs0JwYJFfvR338iXEb1XxBs&_nc_ohc=XYIic58pAD4AX8rX4Ps&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=69e455a9bdcd3080208321bee05f7452&oe=605FA901",url:"https://cloudflare.streamgato.us:3901/live/radio105live.m3u8",referer:""},
+{name:"",image:"https://sv1.picz.in.th/images/2021/03/07/D70V8Z.png",url:"https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8",referer:""},
+
+{"name": "","image": "https://www.234.in.th/images/2021/03/04/151266365_484533962589841_7154033392619662940_n.png","url": "http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "         v","image": "https://sv1.picz.in.th/images/2021/01/26/lX0l9q.png","url": "https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8","referer": "","playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lX0ojz.png","url": "https://cdn6.goprimetime.info/feed/LC35/tracks-v1a1/mono.m3u8 ","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+
+{"name": "        Party","image": "https://www.img.in.th/images/122be618964b0963def11f58e443577e.png","url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8","playInNatPlayer": "true"},
+{"name": "        Pop","image": "https://www.img.in.th/images/122be618964b0963def11f58e443577e.png","url": "https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8","playInNatPlayer": "true"},
+{name:"mtv",image:"https://sv1.picz.in.th/images/2021/01/11/lZvyTJ.png",url:"https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8","playInNatPlayer": "true"},
+{name:"mtv",image:"https://sv1.picz.in.th/images/2021/01/11/lZvyTJ.png",url:"https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8","playInNatPlayer": "true"},
+{name:"mtv yo",image:"https://sv1.picz.in.th/images/2021/01/11/lZvyTJ.png",url:"http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8","playInNatPlayer": "true"},
+
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2020/12/03/j9Fsxg.png",url:"http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8",referer:""},
+{"name": "","image": "https://static.epg.best/us/PopTV.us.png","url":"https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8",referer:"https://player.we-play.tv"},
+
+
+{"name": "","image": "https://static.epg.best/in/AndFlix.in.png","url":"https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8",referer:"https://player.we-play.tv"},
+ 
+ {"name": "","image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/150228608_2935554866681021_3212005387538620976_n.png?_nc_cat=103&ccb=3&_nc_sid=58c789&_nc_eui2=AeHVvFSQv--g8nUwrNm7GPtzpb33dWMPQ56lvfd1Yw9DnqkaR1daDTMbWyFmO7nugyqaobuAUraUJ5SaGZV7mAo8&_nc_ohc=LOfhGcM0P9YAX_5KggG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=49d1cb857c7f30e5031fe29e76901e3c&oe=60616F48","url":"https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8",referer:"https://player.we-play.tv"},
+
+ {"name": "","image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/154209254_1390466867961112_2853743672184223013_n.png?_nc_cat=101&ccb=3&_nc_sid=58c789&_nc_eui2=AeEbIZb-Pq_AyPTR-LAEGiQWVge70mWt_99WB7vSZa3_31NgaOEc_ZQMxYeLsVJh_ENswz_GU1e1v5Exo7iPpgfc&_nc_ohc=kBtPjoPl5XwAX-bWWXd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=02260aeebcdf194b09079fe07a4f0ee7&oe=6063532C","url":"http://160.119.77.116:8081/iptv/uk-skypremiere.stream/playlist.m3u8",referer:"https://player.we-play.tv"},
+ {"name": "","image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/152023032_836059200308241_6122846926096943880_n.png?_nc_cat=109&ccb=3&_nc_sid=58c789&_nc_eui2=AeGBHxVrEdedYoTzNmkrlojY-9PXcpGIqF7709dykYioXl9Rpj5vGZqwwExnecC5-gFPU2B-ArinNrDldjwez6jY&_nc_ohc=zO1JLAS8sugAX93wC6M&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=61ec76ca9eea7faa9f80c2b05e79008c&oe=6063DF4E","url":"http://160.119.77.116:8081/iptv/uk-skyatlantic.stream/playlist.m3u8",referer:"https://player.we-play.tv"},
+ 
+ {name:"",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/154451028_244464184003802_6969386547986569829_n.png?_nc_cat=111&ccb=3&_nc_sid=58c789&_nc_eui2=AeGF99QFuPvCzCDoDPpmvEkJLCIr2a2BgBgsIivZrYGAGGW5zALefdd_PTfzL8Yo3bzVPJPqKeF_3juT1lOX6VFd&_nc_ohc=3OtltCR9DdMAX_Qgg3h&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=21d2440570c6161e8ce5b79abdb6dd4e&oe=6061E2E0",url:"http://hrv.00387.info/CinestarPremiere1/index.m3u8?token=test","playInNatPlayer": "true"},
+ {name:"",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/151385854_1106970866468977_8235307411806732493_n.png?_nc_cat=108&ccb=3&_nc_sid=58c789&_nc_eui2=AeE8jsXpAxbCyEZM6L0eQIpabaTn3IXeqDRtpOfchd6oNJXOHDUdmpYTxAJUi7ch-WQwc-Pl5zywj35ICW9-DLbp&_nc_ohc=kHFctFXXGN8AX_-y5md&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=f4056a8fa324875493bfe7709f2aa4bf&oe=6061BE28",url:"http://hrv.00387.info/CinestarPremiere2/index.m3u8?token=test","playInNatPlayer": "true"},
+
+
+ {"name": "",  "image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/157356650_243618677409103_5521935411326198516_n.png?_nc_cat=102&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeEFDc1gT8qyySR--95ZybolffiQOUjbL-V9-JA5SNsv5XrmSgqXiW1MHEOhN5OM8iWVSABS47pPN531rLXuAi7L&_nc_ohc=Ow49nQcTAyUAX8p2aK2&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=5df8993857e691fe205ddd01b7faaac1&oe=606AA062",  "url": "https://magselect-stirr.amagi.tv/playlist.m3u8","playInNatPlayer": "true"},
+{"name": "",  "image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/158636488_2735753113422153_309664472866899176_n.png?_nc_cat=108&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGJpB8M1y1b8M2ICk-IeLolEb7ZbCZSmEwRvtlsJlKYTNJVqx2m1I44XM4hjQEB17sEe9Ti3odxD99-orIpVgac&_nc_ohc=-IS3S4GE-FoAX8a_wPC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=a74673337945d04fec379b517ed55991&oe=606D3194",  "url": "https://sonar.sinclair.wurl.com/manifest/playlist.m3u8","playInNatPlayer": "true"},
+
+{"name": "",  "image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/158329200_3494352404004783_43894088984804226_n.png?_nc_cat=107&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeFUn7OQE5_JPLLwr_c-dw2gVmYQV9EhluVWZhBX0SGW5c6oqqFAZJ8LqWomRE4z0WwnG9N5hcZVa4MWYpks9TEr&_nc_ohc=gzFFc68k4CkAX_73rMy&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=7e69491de44942830eea47cdfc0b58e8&oe=606D5FC4",  "url": "http://photocall.tv/ftv.m3u8?ch=horrorchannel","playInNatPlayer": "true"},
+{"name": "",  "image": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/158059765_2898175103756146_5078285379486648358_n.png?_nc_cat=109&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeHbGKwfbz4ehoh9iTjhbLAjCFAcFFAKeoYIUBwUUAp6hiXlc3z074HW4zq0O7JKIuqDXb4vIlTQP0tJoxadAu0o&_nc_ohc=NpHsOonOb-AAX9Znmsl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=b3f7450a61cb67be36ff5ff9786c7f57&oe=606CDDD2",  "url": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8","playInNatPlayer": "true"},
+
+ 
+ 
+ ]
+} 
+
+
+{name:"iconcerts",image:"https://www.234.in.th/images/2020/12/16/130587233_217231416541010_6280584983293029946_n.png",url:"https://www.we-play.tv/watching/tv/stingray-iconcerts",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.234.in.th/images/2020/12/16/130587233_217231416541010_6280584983293029946_n.png",url:"https://www.we-play.tv/watching/tv/stingray-iconcerts",referer:"https://player.we-play.tv"},
+
+{name:"       HD2 ",image:"https://sv1.picz.in.th/images/2021/01/25/lVzbxy.png",url:"https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"       HD1 ",image:"https://sv1.picz.in.th/images/2021/01/25/lVzqbW.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f",referer:"https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"},
+{name:"       ",image:"https://sv1.picz.in.th/images/2021/01/25/lVzqbW.png",url:"https://www.doofree88.com/live/film-hd",referer:""},
+{name:"       ",image:"https://sv1.picz.in.th/images/2021/01/25/lVzqbW.png",url:"https://player.we-play.tv/channel.php?name=truefilmhd&cate=entertainment",referer:"https://player.we-play.tv"},
+
+{"name": "ture series","image": "https://sv1.picz.in.th/images/2021/01/26/lVcyqN.png","url": "http://160.119.77.116:8081/iptv/sd-series.stream/chunks.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+ {"name": "   MANGORN  ",  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png",  "url": "http://77.83.117.60:8888/02_MANGORN_720p/chunklist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{name:"   food",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",url:"https://www.doo2you.com/food-network-uk/",referer:"https://player.we-play.tv"},
+
+{name:"",image:"",url:"","playInNatPlayer": "true"},
+{name:"true-inside",image:"https://sv1.picz.in.th/images/2020/12/30/ldFY5z.png",url:"https://www.doo2you.com/true-inside-hd/",referer:"https://www.doo2you.com/"},
+{name:"iconcerts",image:"https://www.234.in.th/images/2020/12/16/130587233_217231416541010_6280584983293029946_n.png",url:"https://www.we-play.tv/watching/tv/stingray-iconcerts",referer:"https://player.we-play.tv"},
+
+{name:"fox family",image:"https://www.234.in.th/images/2021/01/25/142366089_169407207930177_7207135988469120789_n.png",url:"https://www.we-play.tv/watching/tv/fox-family-movies",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.234.in.th/images/2021/01/25/142366089_169407207930177_7207135988469120789_n.png",url:"https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+{name:"mtv",image:"https://sv1.picz.in.th/images/2021/01/11/lZvyTJ.png",url:"http://wagnet.club:7000/billy/billy/24","playInNatPlayer": "true"},
+
+
+ {"name":"          ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwhqI.png",url:"http://wagnet.club:7000/billy/billy/77 ","referer": "https://wiseplay-thailand.nat"},
+ {"name":"           ",image:"https://sv1.picz.in.th/images/2021/01/11/lcw9St.png",url:" http://wagnet.club:7000/billy/billy/646402","referer": "https://wiseplay-thailand.nat"},
+ {"name":"           ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwcJN.png",url:" http://wagnet.club:7000/billy/billy/75","referer": "https://wiseplay-thailand.nat"},
+ {"name":"          ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwxVS.png",url:" http://wagnet.club:7000/billy/billy/78","referer": "https://wiseplay-thailand.nat"},
+ {"name":"           ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwjoy.png",url:" http://wagnet.club:7000/billy/billy/74","referer": "https://wiseplay-thailand.nat"},
+ {"name":"           ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwA5J.png",url:"http://wagnet.club:7000/billy/billy/81 ","referer": "https://wiseplay-thailand.nat"},
+ {"name":"           ",image:"https://sv1.picz.in.th/images/2021/01/11/lcw6Mz.png",url:"http://wagnet.club:7000/billy/billy/73 ","referer": "https://wiseplay-thailand.nat"},
+ {"name":"          ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwrw8.png",url:" http://wagnet.club:7000/billy/billy/72","referer": "https://wiseplay-thailand.nat"},
+ {"name":"           ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwHL0.png",url:"http://wagnet.club:7000/billy/billy/79 ","referer": "https://wiseplay-thailand.nat"},
+ {"name":"          ",image:"https://sv1.picz.in.th/images/2021/01/11/lcwILE.png",url:" http://wagnet.club:7000/billy/billy/80","referer": "https://wiseplay-thailand.nat"},
+  
+
+
+{name:"       FXM",image:"https://sv1.picz.in.th/images/2021/01/25/lVdp7Q.png",url:"http://wagnet.club:7000/billy/billy/649109",referer:"https://player.we-play.tv"},
+{name:"",image:"https://sv1.picz.in.th/images/2021/01/25/lVdp7Q.png",url:"http://wagnet.club:7000/billy/billy/649111",referer:"https://player.we-play.tv"},
+
+
+
+
+
+
+
+{name:"   hidaf6     ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/149145454_465604974440536_8980753794635044594_n.png?_nc_cat=102&ccb=3&_nc_sid=58c789&_nc_eui2=AeE1rcq0ZZDPq9Q_3Xy2VwlvzN0X4sR0mRTM3RfixHSZFIwQzOvICCrdKAck3dG3pg9ODnb0nlbaO-3LMfPu6zta&_nc_ohc=JMeXtf83gCQAX-i4Igh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=64838b51734c98a49685bc8f6ecdf555&oe=604AB24D",url:"http://wagnet.club:7000/billy/billy/649226",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"  hidaf7   ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/148771391_544851020276227_5315214305661720296_n.png?_nc_cat=109&ccb=3&_nc_sid=58c789&_nc_eui2=AeFcb60Z2LHGVRNdJj18WvdIwsxlgEc9e7rCzGWARz17uldmGfNa1u084f2VIMFLcdEMBEjOukp4hhLWu-t7ppS8&_nc_ohc=pG_2yiB4zW4AX-bRjkl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=232b17dbefdf561b6f1c2eb4fefc8145&oe=604A9483",url:"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"     hidaf8    ",image:"https://sv1.picz.in.th/images/2021/02/20/olMh02.png",url:"http://wagnet.club:7000/billy/billy/648956",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+
+
+{name:"     hidaf1   ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/149120257_245373180420818_294138902641667920_n.png?_nc_cat=106&ccb=3&_nc_sid=58c789&_nc_eui2=AeGZyrjk7K0o_4McImHUlepblsqQ0Q898iuWypDRDz3yKwlRqZonVafswk4D40w4f-ZrTehwHi-yx58sWANnBu6z&_nc_ohc=fu51wcdp7scAX-GiUQk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=edad4d03b229fc22d65b01e77cf5dcca&oe=604A5864",url:"https://bit.ly/3qkKxeX",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"        ",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/148716769_1378837399133480_3265079787194221552_n.png?_nc_cat=104&ccb=3&_nc_sid=58c789&_nc_eui2=AeFR9fMsRfdsALbLhpAVPN4RlOeJWdSeQOOU54lZ1J5A47oqRl7xHH7blfQOeSf-Bfa4kKmnW6S-h2QAUfQ_gtZf&_nc_ohc=PKwtEeQ4GAEAX9z6y6R&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=03df77a3e53a0b2e869fe0cc5a5b68e0&oe=604B515F",url:"https://bit.ly/3rWKWEy",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+{name:"tvn",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",url:"https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"tvn",image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0127.png",url:"http://160.119.77.116:8081/iptv/hd-tvn.stream/chunks.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+
+{name:"",image:"https://www.234.in.th/images/2021/02/08/147608905_1007398736453278_1531231411640581526_n.png",url:"http://210.210.155.35:80/uq2663/h/h19/01.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"",image:"https://www.234.in.th/images/2021/02/08/147608905_1007398736453278_1531231411640581526_n.png",url:"http://210.210.155.35:80/uq2663/h/h19/01.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+{"name": "",  "image": "https://img2.bpicc.com/2020/12/10/130082817_448759512955635_8475214394427593124_n.png",  "url": "http://210.210.155.35:80/uq2663/h/h08/01.m3u8","playInNatPlayer": "true"},
+{"name": "",  "image": "https://img2.bpicc.com/2020/12/10/130082817_448759512955635_8475214394427593124_n.png",  "url": "http://210.210.155.35:80/uq2663/h/h08/01.m3u8","playInNatPlayer": "true"},
+
+
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lXrpsQ.png","url": "https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/chunklist_w1680151063.m3u8","playInNatPlayer": "true"}, 
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lXrpsQ.png","url": "https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/chunklist_w1680151063.m3u8","playInNatPlayer": "true"}, 
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/01/26/lXzcC9.png",url:"http://node101.cloud-streaming.com/mvcb_x1/moviehits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIxIDY6MDM6MjAgQU0maGFzaF92YWx1ZT1ucDJMSDZiQWFBTkFTTU1RTVVWRzZnPT0mdmFsaWRtaW51dGVzPTIwJmlkPUFwcF9tb3ZpZWNsdWImc3RybV9sZW49MTc=","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{"name": "",  "image": "https://www.img.in.th/images/1758c8c29e311635347e8a00537f8525.png",  "url": "http://node101.cloud-streaming.com/mvcb_x3/hd-tvn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIxIDY6MDA6MjggQU0maGFzaF92YWx1ZT1TM1hPVXhUMGFjTGxUZzNaUng3dWpnPT0mdmFsaWRtaW51dGVzPTIwJmlkPUFwcF9tb3ZpZWNsdWImc3RybV9sZW49MTQ=","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{name:"",image:"https://www.234.in.th/images/2020/12/16/130587233_217231416541010_6280584983293029946_n.png",url:"https://www.we-play.tv/watching/tv/stingray-iconcerts",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.234.in.th/images/2020/12/16/131156200_713711196242793_2690024755851345582_n.png",url:"https://www.we-play.tv/watching/tv/kmtv",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.234.in.th/images/2020/12/16/131620368_4814952071909668_8794863530507917072_n.png",url:"https://www.we-play.tv/watching/tv/lifetime",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://sv1.picz.in.th/images/2021/01/25/lVSIfk.png",url:"https://player.we-play.tv/channel.php?name=fox-crime&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.img.in.th/images/122be618964b0963def11f58e443577e.png",url:"https://player.we-play.tv/channel.php?name=mtv-live&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+{name:"wakuwaku",image:"https://www.img.in.th/images/59fde5cf7c8a31277475963dcd1f84ff.png",url:"https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.img.in.th/images/59fde5cf7c8a31277475963dcd1f84ff.png",url:"https://vcdnjt.useetv.com/dass/15/wakuwaku/chunklist_w353386131_b1344100_sleng.m3u8",referer:"https://player.we-play.tv"},
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lX0gb2.png","url": "http://61.19.242.134/feed/LC54/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"}
+
+
+{"name": "      cat","image": "https://sv1.picz.in.th/images/2021/01/26/lVcLvv.png","url": "https://cdn6.goprimetime.info/feed/CAT/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+  {name:"",image:"https://www.234.in.th/images/2020/12/16/131620368_4814952071909668_8794863530507917072_n.png",url:"https://cdn6.goprimetime.info/feed/CAT/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lX0gb2.png","url": "http://61.19.242.134/feed/LC54/index.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"}
+
+
+
+
+
+
+{name:"",image:"https://www.img.in.th/images/da7da27f12fa68a3541c51683239718c.png",url:"https://player.we-play.tv/channel.php?name=hits&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+
+{name:"",image:"https://www.img.in.th/images/da7da27f12fa68a3541c51683239718c.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=233",referer:"https://player.we-play.tv"},
+
+{name:"",image:"https://www.img.in.th/images/e6f7ece47df84ef0c165362a516c8391.png",url:"https://player.we-play.tv/channel.php?name=hitsmovies&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+{name:"",image:"https://www.img.in.th/images/e6f7ece47df84ef0c165362a516c8391.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=234",referer:"https://player.we-play.tv"},
+
+{"name": "คูลชาแนล","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0170.png","url": "https://raw.githubusercontent.com/maxchanon/maxiptv/main/coolch.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer 2.11.7","playInNatPlayer": "true"},
+
+{name:" ทรูไทยฟิม",image:"https://sv1.picz.in.th/images/2020/12/24/jGNdSZ.png",url:"https://player.we-play.tv/channel.php?name=truethaifilm&cate=entertainment",referer:"https://player.we-play.tv"},
+{name:"",image:"https://sv1.picz.in.th/images/2020/12/24/jGNdSZ.png",url:"https://www.doo2you.com/true-film-hd/",referer:"https://player.we-play.tv"},
+
+
+{name:"ccm",image:"https://sv1.picz.in.th/images/2020/11/30/jfpcnS.png",url:"https://laos-tech-live.b-cdn.net/sd-celestial_480/index.m3u8",userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jfpcnS.png",url:"https://player.we-play.tv/channel.php?name=ccm&cate=entertainment",referer:"https://player.we-play.tv"},
+
+
+
+
+{"name": "","image":"https://uppic.cc/d/vcCkYFEJnWrGN70kereru",  "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?offset=-21600","playInNatPlayer": "true"},
+ 
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/12/liS5pl.png","url":"https://ustvgo.tv/syfy-channel-live/",referer:"https://player.we-play.tv"},
+ 
+ {"name": "","image": "https://sv1.picz.in.th/images/2020/12/07/jipOO0.png","url":"https://ustvgo.tv/amc-live/",referer:"https://player.we-play.tv"},
+
+{name:"    ",image:"https://sv1.picz.in.th/images/2021/01/25/lVzqbW.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmcb4rf66f&ref=none",referer:"https://dooball66.com"},
+
+
+
+{"name": "","image": "https://sv1.picz.in.th/images/2021/01/26/lVgk7J.png","url": "","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{name:"",image:"https://www.img.in.th/images/55063389dc61300caf37b38d93f1289f.png",url:"https://www.we-play.tv/watching/tv/hits-weplay",referer:"https://player.we-play.tv"},
