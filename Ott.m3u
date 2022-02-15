@@ -1,5 +1,5 @@
 #EXTM3U url="https://raw.githubusercontent.com/yen1990/improved-octo-eureka/main/Ott.m3u"
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png", 7HD
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",CH7HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
 #EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",ไทยรัฐ
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/32/32.mpd
